@@ -28,3 +28,4 @@ Output
                                             Numerical Analysis: Statistical measures of a selected numerical column.
                                             Visualizations: Histograms, Boxplots for numerical data & Bar/Pie charts for categorical data.
                                             Outlier Detection: Using IQR to identify anomalies in numerical data.
+![image](https://github.com/user-attachments/assets/8b411594-eca6-4874-b716-648055f54b30)
